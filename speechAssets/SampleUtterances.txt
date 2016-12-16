@@ -1,0 +1,26 @@
+ByLocation prayer timings in {Location}
+ByLocation prayer timings in {Location} for {Date} 
+ByLocation please give me prayer timings in {Location}
+ByLocation please give me prayer timings in {Location} for {Date}
+ByLocation to tell me prayer timings for {Location}
+ByLocation to tell me prayer timings for {Location} for {Date}
+
+SpecificPrayer to tell me {PrayerName} timing for {PrayerLocation}
+SpecificPrayer to tell me {PrayerName} timing for {PrayerLocation} for {PrayerTime}
+SpecificPrayer what time do I offer {PrayerName} in {PrayerLocation}
+SpecificPrayer what time do I offer {PrayerName} in {PrayerLocation} for {PrayerTime}
+SpecificPrayer when is {PrayerName} is to be offered on {PrayerLocation}
+SpecificPrayer when is {PrayerName} to be offered in {PrayerLocation} for {PrayerTime}
+SpecificPrayer when do I offer {PrayerName} in {PrayerLocation}
+SpecificPrayer for {PrayerName} timing in {PrayerLocation}
+SpecificPrayer for {PrayerName} timing in {PrayerLocation} for {PrayerTime}
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.HelpIntent what can I ask you
+AMAZON.HelpIntent get help
+AMAZON.HelpIntent what commands can I ask
+AMAZON.HelpIntent what commands can I say
+AMAZON.HelpIntent what can I do
+AMAZON.HelpIntent what can I use this for
+AMAZON.HelpIntent what questions can I ask

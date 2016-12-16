@@ -1,0 +1,6 @@
+Fajr
+Dhuhr
+Sunrise
+Asr
+Maghrib
+Isha

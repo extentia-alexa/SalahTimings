@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "intent": "ByLocation",
+      "slots": [
+       {
+          "name":"Location",
+          "type":"AMAZON.US_CITY"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "SpecificPrayer",
+      "slots": [
+        {
+          "name": "PrayerName",
+          "type": "LIST_OF_PRAYER"
+        },
+        {
+          "name":"PrayerLocation",
+          "type":"AMAZON.US_CITY"
+        },
+        {
+         	"name": "PrayerTime",
+          	"type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
